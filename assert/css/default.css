@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    --color-dark: #141414;
+    --primary-color: #231656;
+    --secondary-color: #625FFB;
+    --content-color: #4E4E4E;
+    --background-color: #F5F5F5;
+    --greybackground-color: #F8F8F8;
+    font-family: 'Jost', sans-serif;
+}
+
+.text_xs {
+    font-size: 25px;
+}
+
+.text_sm {
+    font-size: 28px;
+}
+
+.text_md {
+    font-size: 30px;
+}
+
+.text_lg {
+    font-size: 35px;
+}
+
+.text_xl {
+    font-size: 40px;
+}
+
+.text_xxl {
+    font-size: 70px;
+}
+
+.text_bold {
+    font-weight: bold;
+}
+
+.center {
+    justify-content: center;
+    align-items: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.between {
+    justify-content: space-between;
+}
+
+.evenly {
+    justify-content: space-evenly;
+}
+
+.around {
+    justify-content: space-around;
+}
+
+.grid {
+    display: grid;
+}
+
+.HIDE {
+    display: none;
+}
+
+.margin_auto {
+    margin: auto;
+}
+
+
+.gap_6 {
+    gap: 6px;
+}
+
+.gap_7 {
+    gap: 7px;
+}
+
+.gap_8 {
+    gap: 8px;
+}
+
+.gap_9 {
+    gap: 9px;
+}
+
+.gap_10 {
+    gap: 10px;
+}
+
+.gap_15 {
+    gap: 15px;
+}
+
+.gap_16 {
+    gap: 16px;
+}
+
+.gap_20 {
+    gap: 20px;
+}
+
+.gap_25 {
+    gap: 25px;
+}
+.gap_32 {
+    gap: 32px;
+}
+
+.color_light {
+    color: white;
+}
+.padding_40{
+    padding: 0 40px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.center_align {
+    align-items: center;
+}
+.center_justify {
+    justify-content: center;
+}
+
+.width {
+    width: 100%
+}
+
+.absolute {
+    position: absolute;
+}
+
+.relative {
+    position: relative;
+}
+
+.border_40 {
+    border-radius: 40px;
+}
